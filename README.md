@@ -19,6 +19,8 @@
 
 [![Top Langs](https://github-readme-stats-seven-xi-13.vercel.app/api/top-langs/?username=MostafaKamalEid)](https://github.com/MostafaKamalEid/github-readme-stats)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaKamalEid&" alt="mostafakamaleed" /></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
