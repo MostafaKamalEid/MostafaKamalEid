@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-seven-xi-13.vercel.app/api?username=MostafaKamalEid&show_icons=true&locale=en" alt="mostafakamaleed" /></p>
 
-<p><img align="center" src="https://github-readme-stats-seven-xi-13.vercel.app/api/?user=MostafaKamalEid&" alt="mostafakamaleed" /></p>
+<p><img align="center" src="https://github-readme-stats-seven-xi-13.vercel.app/api?user=MostafaKamalEid&" alt="mostafakamaleed" /></p>
