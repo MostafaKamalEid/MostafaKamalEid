@@ -24,3 +24,5 @@
 [![Stat](https://github-readme-stats-seven-xi-13.vercel.app/api?username=MostafaKamalEid&show_icons=true&locale=en&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent)](https://github.com/MostafaKamalEid/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-seven-xi-13.vercel.app/api/top-langs/?username=MostafaKamalEid)](https://github.com/MostafaKamalEid/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats-seven-xi-13.vercel.app/api/wakatime/?username=MostafaKamalEid&v=2)](https://github.com/MostafaKamalEid/github-readme-stats)
