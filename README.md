@@ -16,7 +16,7 @@
   
 <h3 align="left">Statistics:</h3>
 
-[![Stat](https://github-readme-stats-seven-xi-13.vercel.app/api?username=MostafaKamalEid&show_icons=true&locale=en&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent)](https://github.com/MostafaKamalEid/github-readme-stats)
+[![Stat](https://github-readme-stats-seven-xi-13.vercel.app/api?username=MostafaKamalEid&show_icons=true&locale=en&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&include_all_commits=true)](https://github.com/MostafaKamalEid/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-seven-xi-13.vercel.app/api/top-langs/?username=MostafaKamalEid)](https://github.com/MostafaKamalEid/github-readme-stats)
 
