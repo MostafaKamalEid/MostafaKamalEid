@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mostafakamaleed@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/tARXY](https://shorturl.at/tARXY)
+- 📄 Know about my experiences  [https://shorturl.at/tARXY](https://shorturl.at/wBJS6)
 
 - ⚡ Fun fact **I Love 90s Arabic music**
 
